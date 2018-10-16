@@ -10,15 +10,19 @@ printf("do some preprocessing");
 
 void postprocess(){
 
+printf("aaa");
+}
 
-prnitf("aaa");}
 
+void turbo_on(){
+printf("on");
+}
 
 int main(){
 
 func1();
 func2();
-
+turbo_on();
 
 return 0;
 }
