@@ -2,6 +2,13 @@
 #include "func1.h"
 #include "func2.h"
 
+void turbo_on(){
+printf("on"{
+
+
+}
+
+}
 int main(){
 
 func1();
