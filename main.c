@@ -7,6 +7,13 @@ void preprocess(){
 printf("do some preprocessing");
 
 }
+
+void postprocess(){
+
+
+prnitf("aaa");}
+
+
 int main(){
 
 func1();
