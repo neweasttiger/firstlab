@@ -2,5 +2,6 @@
 
 
 
-echo "aaaaa" 
-
+echo "aaaaa" $*
+echo "ss"
+echo -n "asdasdfsdff"

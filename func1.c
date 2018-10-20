@@ -7,6 +7,7 @@ void func1(){
 
 printf("func1");
 printf("11111");
+printf("aaaa");
 
 
 }
